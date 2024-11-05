@@ -36,7 +36,7 @@ void asignador() {
             std::cout << "Domingo" << std::endl;
             break;
         default:
-            std::cout << "Número incorrecto" << std::endl;
+            asignador();
             break;
     }
 

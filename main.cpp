@@ -3,9 +3,9 @@
 //
 #include <iostream>
 #include "Ejercicio_uno_comparador/comparador.h"
-#include "Ejercicio_dos/semana.h"
+#include "Ejercicio_dos_asignacion/semana.h"
 #include "Ejercicio_tres_Promedio /promedio.h"
-#include "Ejercicio_cuatro /promocion.h"
+#include "Ejercicio_cuatro_tres_por_dos/promocion.h"
 
 int main() {
 

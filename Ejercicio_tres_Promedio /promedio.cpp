@@ -16,7 +16,7 @@ double promedio() {
         std::cin >> nota;
         notas_sum += nota;
     }
-    media = notas_sum/10;
+    media = notas_sum/numero_notas;
     cout << media << endl;
     return media;
 }
