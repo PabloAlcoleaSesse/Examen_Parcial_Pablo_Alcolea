@@ -44,6 +44,7 @@ Posteriormente creamos el imput para que el usuario introduzca los precios de lo
 
 Despues con la condicion y el comparador lógico && comprobamos cual de los tres productos es el más barato y sumamos los precios de los otros dos productos.
 
+## Ligero uso de copilot para problema con los ".h" que ha resultado en un problema con los espacios de los nombres de los directorios
 
 
 ```cpp
