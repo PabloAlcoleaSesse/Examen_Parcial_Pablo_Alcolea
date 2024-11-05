@@ -1,6 +1,7 @@
 # Examen_Parcial_Pablo_Alcolea
 https://github.com/PabloAlcoleaSesse/Examen_Parcial_Pablo_Alcolea.git
 
+### Para todos los ejercicios se han creado carpetas con sus codigos y funciones correspondientes que despues han sido llamadas al archivo main.cpp
 
 ## Ejercicio 1: Identificación de Número Positivo, Negativo o Cero
 
@@ -42,5 +43,7 @@ He creado una función de tipo double con tres variables locales de tipo double 
 Posteriormente creamos el imput para que el usuario introduzca los precios de los tres productos y se guarden en su variable correspondiente.
 
 Despues con la condicion y el comparador lógico && comprobamos cual de los tres productos es el más barato y sumamos los precios de los otros dos productos.
+
+
 
 ```cpp
